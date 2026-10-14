@@ -1,0 +1,629 @@
+{
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "documentWidth": 1425,
+      "h1Count": 1,
+      "title": {
+        "left": 72,
+        "top": 389.25,
+        "right": 968,
+        "bottom": 540.46875,
+        "width": 896,
+        "height": 151.21875
+      },
+      "header": {
+        "left": 0,
+        "top": 0,
+        "right": 1425,
+        "bottom": 96,
+        "width": 1425,
+        "height": 96
+      },
+      "logo": {
+        "left": 72,
+        "top": 12,
+        "right": 144,
+        "bottom": 84,
+        "width": 72,
+        "height": 72
+      },
+      "headerAction": {
+        "left": 1173.25,
+        "top": 24,
+        "right": 1353,
+        "bottom": 72,
+        "width": 179.75,
+        "height": 48
+      },
+      "video": {
+        "paused": false,
+        "currentTime": 1.306765,
+        "duration": 8,
+        "readyState": 4,
+        "error": null,
+        "src": "/videos/hero.mp4",
+        "opacity": "1",
+        "advances": true
+      },
+      "poster": "url(\"http://127.0.0.1:4322/images/hero/hero-poster.png\")",
+      "links": [
+        {
+          "href": "http://127.0.0.1:4322/?qa=width1440#inicio",
+          "label": "RP2 Engenharia — voltar ao início"
+        },
+        {
+          "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+          "label": "Falar sobre cabanas no WhatsApp (abre em nova aba)"
+        },
+        {
+          "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+          "label": "Conversar sobre cabanas no WhatsApp (abre em nova aba)"
+        }
+      ],
+      "fontsLoaded": false,
+      "noHorizontalOverflow": true,
+      "headerActionsInside": true,
+      "scroll": {
+        "scrollY": 80,
+        "top": 0,
+        "scrolled": true,
+        "background": "rgba(255, 255, 255, 0.96)"
+      },
+      "keyboard": [
+        {
+          "tag": "A",
+          "class": "site-header__brand",
+          "focusVisible": true,
+          "outline": "solid",
+          "outlineWidth": "3px"
+        },
+        {
+          "tag": "A",
+          "class": "site-header__action",
+          "focusVisible": true,
+          "outline": "solid",
+          "outlineWidth": "3px"
+        },
+        {
+          "tag": "A",
+          "class": "hero__action",
+          "focusVisible": true,
+          "outline": "solid",
+          "outlineWidth": "3px"
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "documentWidth": 753,
+      "h1Count": 1,
+      "title": {
+        "left": 38.390625,
+        "top": 481.546875,
+        "right": 714.609375,
+        "bottom": 591.421875,
+        "width": 676.21875,
+        "height": 109.875
+      },
+      "header": {
+        "left": 0,
+        "top": 0,
+        "right": 753,
+        "bottom": 96,
+        "width": 753,
+        "height": 96
+      },
+      "logo": {
+        "left": 38.390625,
+        "top": 12,
+        "right": 110.390625,
+        "bottom": 84,
+        "width": 72,
+        "height": 72
+      },
+      "headerAction": {
+        "left": 534.859375,
+        "top": 24,
+        "right": 714.609375,
+        "bottom": 72,
+        "width": 179.75,
+        "height": 48
+      },
+      "video": {
+        "paused": false,
+        "currentTime": 0.990262,
+        "duration": 8,
+        "readyState": 4,
+        "error": null,
+        "src": "/videos/hero.mp4",
+        "opacity": "1",
+        "advances": true
+      },
+      "poster": "url(\"http://127.0.0.1:4322/images/hero/hero-poster.png\")",
+      "links": [
+        {
+          "href": "http://127.0.0.1:4322/?qa=width768#inicio",
+          "label": "RP2 Engenharia — voltar ao início"
+        },
+        {
+          "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+          "label": "Falar sobre cabanas no WhatsApp (abre em nova aba)"
+        },
+        {
+          "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+          "label": "Conversar sobre cabanas no WhatsApp (abre em nova aba)"
+        }
+      ],
+      "fontsLoaded": false,
+      "noHorizontalOverflow": true,
+      "headerActionsInside": true,
+      "scroll": {
+        "scrollY": 80,
+        "top": 0,
+        "scrolled": true,
+        "background": "rgba(255, 255, 255, 0.96)"
+      },
+      "keyboard": [
+        {
+          "tag": "A",
+          "class": "site-header__brand",
+          "focusVisible": true,
+          "outline": "solid",
+          "outlineWidth": "3px"
+        },
+        {
+          "tag": "A",
+          "class": "site-header__action",
+          "focusVisible": true,
+          "outline": "solid",
+          "outlineWidth": "3px"
+        },
+        {
+          "tag": "A",
+          "class": "hero__action",
+          "focusVisible": true,
+          "outline": "solid",
+          "outlineWidth": "3px"
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "documentWidth": 375,
+      "h1Count": 1,
+      "title": {
+        "left": 20,
+        "top": 372.140625,
+        "right": 355,
+        "bottom": 490.921875,
+        "width": 335,
+        "height": 118.78125
+      },
+      "header": {
+        "left": 0,
+        "top": 0,
+        "right": 375,
+        "bottom": 88,
+        "width": 375,
+        "height": 88
+      },
+      "logo": {
+        "left": 20,
+        "top": 12,
+        "right": 84,
+        "bottom": 76,
+        "width": 64,
+        "height": 64
+      },
+      "headerAction": {
+        "left": 210.53125,
+        "top": 20,
+        "right": 355,
+        "bottom": 68,
+        "width": 144.46875,
+        "height": 48
+      },
+      "video": {
+        "paused": false,
+        "currentTime": 0.993158,
+        "duration": 8,
+        "readyState": 4,
+        "error": null,
+        "src": "/videos/hero.mp4",
+        "opacity": "1",
+        "advances": true
+      },
+      "poster": "url(\"http://127.0.0.1:4322/images/hero/hero-poster.png\")",
+      "links": [
+        {
+          "href": "http://127.0.0.1:4322/?qa=width390#inicio",
+          "label": "RP2 Engenharia — voltar ao início"
+        },
+        {
+          "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+          "label": "Falar sobre cabanas no WhatsApp (abre em nova aba)"
+        },
+        {
+          "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+          "label": "Conversar sobre cabanas no WhatsApp (abre em nova aba)"
+        }
+      ],
+      "fontsLoaded": false,
+      "noHorizontalOverflow": true,
+      "headerActionsInside": true,
+      "scroll": {
+        "scrollY": 68,
+        "top": 0,
+        "scrolled": true,
+        "background": "rgba(255, 255, 255, 0.96)"
+      },
+      "keyboard": [
+        {
+          "tag": "A",
+          "class": "site-header__brand",
+          "focusVisible": true,
+          "outline": "solid",
+          "outlineWidth": "3px"
+        },
+        {
+          "tag": "A",
+          "class": "site-header__action",
+          "focusVisible": true,
+          "outline": "solid",
+          "outlineWidth": "3px"
+        },
+        {
+          "tag": "A",
+          "class": "hero__action",
+          "focusVisible": true,
+          "outline": "solid",
+          "outlineWidth": "3px"
+        }
+      ]
+    }
+  ],
+  "contrast": [
+    {
+      "width": 1440,
+      "time": 0,
+      "element": ".hero__title-accent",
+      "ratio": 3.5,
+      "threshold": 3
+    },
+    {
+      "width": 1440,
+      "time": 0,
+      "element": ".hero__description",
+      "ratio": 15.64,
+      "threshold": 4.5
+    },
+    {
+      "width": 1440,
+      "time": 4,
+      "element": ".hero__title-accent",
+      "ratio": 3.5,
+      "threshold": 3
+    },
+    {
+      "width": 1440,
+      "time": 4,
+      "element": ".hero__description",
+      "ratio": 15.64,
+      "threshold": 4.5
+    },
+    {
+      "width": 1440,
+      "time": 7.8,
+      "element": ".hero__title-accent",
+      "ratio": 3.53,
+      "threshold": 3
+    },
+    {
+      "width": 1440,
+      "time": 7.8,
+      "element": ".hero__description",
+      "ratio": 16.21,
+      "threshold": 4.5
+    },
+    {
+      "width": 768,
+      "time": 0,
+      "element": ".hero__title-accent",
+      "ratio": 3.68,
+      "threshold": 3
+    },
+    {
+      "width": 768,
+      "time": 0,
+      "element": ".hero__description",
+      "ratio": 16.52,
+      "threshold": 4.5
+    },
+    {
+      "width": 768,
+      "time": 4,
+      "element": ".hero__title-accent",
+      "ratio": 3.68,
+      "threshold": 3
+    },
+    {
+      "width": 768,
+      "time": 4,
+      "element": ".hero__description",
+      "ratio": 16.52,
+      "threshold": 4.5
+    },
+    {
+      "width": 768,
+      "time": 7.8,
+      "element": ".hero__title-accent",
+      "ratio": 3.68,
+      "threshold": 3
+    },
+    {
+      "width": 768,
+      "time": 7.8,
+      "element": ".hero__description",
+      "ratio": 16.52,
+      "threshold": 4.5
+    },
+    {
+      "width": 390,
+      "time": 0,
+      "element": ".hero__title-accent",
+      "ratio": 3.72,
+      "threshold": 3
+    },
+    {
+      "width": 390,
+      "time": 0,
+      "element": ".hero__description",
+      "ratio": 16.14,
+      "threshold": 4.5
+    },
+    {
+      "width": 390,
+      "time": 4,
+      "element": ".hero__title-accent",
+      "ratio": 3.72,
+      "threshold": 3
+    },
+    {
+      "width": 390,
+      "time": 4,
+      "element": ".hero__description",
+      "ratio": 16.14,
+      "threshold": 4.5
+    },
+    {
+      "width": 390,
+      "time": 7.8,
+      "element": ".hero__title-accent",
+      "ratio": 3.72,
+      "threshold": 3
+    },
+    {
+      "width": 390,
+      "time": 7.8,
+      "element": ".hero__description",
+      "ratio": 16.14,
+      "threshold": 4.5
+    }
+  ],
+  "exceptions": [],
+  "reducedMotion": {
+    "width": 390,
+    "height": 844,
+    "documentWidth": 375,
+    "h1Count": 1,
+    "title": {
+      "left": 20,
+      "top": 372.140625,
+      "right": 355,
+      "bottom": 490.921875,
+      "width": 335,
+      "height": 118.78125
+    },
+    "header": {
+      "left": 0,
+      "top": 0,
+      "right": 375,
+      "bottom": 88,
+      "width": 375,
+      "height": 88
+    },
+    "logo": {
+      "left": 20,
+      "top": 12,
+      "right": 84,
+      "bottom": 76,
+      "width": 64,
+      "height": 64
+    },
+    "headerAction": {
+      "left": 210.53125,
+      "top": 20,
+      "right": 355,
+      "bottom": 68,
+      "width": 144.46875,
+      "height": 48
+    },
+    "video": {
+      "paused": true,
+      "currentTime": 0,
+      "duration": null,
+      "readyState": 0,
+      "error": null,
+      "src": null,
+      "opacity": "0"
+    },
+    "poster": "url(\"http://127.0.0.1:4322/images/hero/hero-poster.png\")",
+    "links": [
+      {
+        "href": "http://127.0.0.1:4322/?qa=reduced#inicio",
+        "label": "RP2 Engenharia — voltar ao início"
+      },
+      {
+        "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+        "label": "Falar sobre cabanas no WhatsApp (abre em nova aba)"
+      },
+      {
+        "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+        "label": "Conversar sobre cabanas no WhatsApp (abre em nova aba)"
+      }
+    ],
+    "fontsLoaded": false,
+    "videoRequests": [],
+    "scrollBehavior": "auto"
+  },
+  "videoFailure": {
+    "width": 390,
+    "height": 844,
+    "documentWidth": 375,
+    "h1Count": 1,
+    "title": {
+      "left": 20,
+      "top": 372.140625,
+      "right": 355,
+      "bottom": 490.921875,
+      "width": 335,
+      "height": 118.78125
+    },
+    "header": {
+      "left": 0,
+      "top": 0,
+      "right": 375,
+      "bottom": 88,
+      "width": 375,
+      "height": 88
+    },
+    "logo": {
+      "left": 20,
+      "top": 12,
+      "right": 84,
+      "bottom": 76,
+      "width": 64,
+      "height": 64
+    },
+    "headerAction": {
+      "left": 210.53125,
+      "top": 20,
+      "right": 355,
+      "bottom": 68,
+      "width": 144.46875,
+      "height": 48
+    },
+    "video": {
+      "paused": true,
+      "currentTime": 0,
+      "duration": null,
+      "readyState": 0,
+      "error": 4,
+      "src": "/videos/hero.mp4",
+      "opacity": "0"
+    },
+    "poster": "url(\"http://127.0.0.1:4322/images/hero/hero-poster.png\")",
+    "links": [
+      {
+        "href": "http://127.0.0.1:4322/?qa=video-error#inicio",
+        "label": "RP2 Engenharia — voltar ao início"
+      },
+      {
+        "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+        "label": "Falar sobre cabanas no WhatsApp (abre em nova aba)"
+      },
+      {
+        "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+        "label": "Conversar sobre cabanas no WhatsApp (abre em nova aba)"
+      }
+    ],
+    "fontsLoaded": false
+  },
+  "noJavascript": {
+    "width": 390,
+    "height": 844,
+    "documentWidth": 375,
+    "h1Count": 1,
+    "title": {
+      "left": 20,
+      "top": 372.140625,
+      "right": 355,
+      "bottom": 490.921875,
+      "width": 335,
+      "height": 118.78125
+    },
+    "header": {
+      "left": 0,
+      "top": 0,
+      "right": 375,
+      "bottom": 88,
+      "width": 375,
+      "height": 88
+    },
+    "logo": {
+      "left": 20,
+      "top": 12,
+      "right": 84,
+      "bottom": 76,
+      "width": 64,
+      "height": 64
+    },
+    "headerAction": {
+      "left": 210.53125,
+      "top": 20,
+      "right": 355,
+      "bottom": 68,
+      "width": 144.46875,
+      "height": 48
+    },
+    "video": {
+      "paused": true,
+      "currentTime": 0,
+      "duration": null,
+      "readyState": 0,
+      "error": null,
+      "src": null,
+      "opacity": "0"
+    },
+    "poster": "url(\"http://127.0.0.1:4322/images/hero/hero-poster.png\")",
+    "links": [
+      {
+        "href": "http://127.0.0.1:4322/?qa=no-js#inicio",
+        "label": "RP2 Engenharia — voltar ao início"
+      },
+      {
+        "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+        "label": "Falar sobre cabanas no WhatsApp (abre em nova aba)"
+      },
+      {
+        "href": "https://wa.me/5524992848489?text=Ol%C3%A1!%20Conheci%20as%20Cabanas%20Modulares%20da%20RP2%20no%20site%20e%20gostaria%20de%20conversar.",
+        "label": "Conversar sobre cabanas no WhatsApp (abre em nova aba)"
+      }
+    ],
+    "fontsLoaded": false
+  },
+  "buttonContrast": 5.96,
+  "loadingSlowNetwork": {
+    "videoOpacity": "0",
+    "readyState": 0,
+    "poster": "url(\"http://127.0.0.1:4322/images/hero/hero-poster.png\")",
+    "bodyText": "Conheça a linha de cabanas modulares em Steel Frame da RP2 Engenharia.",
+    "ctaVisible": true,
+    "fonts": []
+  },
+  "media": {
+    "width": 1280,
+    "height": 720,
+    "duration": 8,
+    "fonts": []
+  },
+  "limitations": [
+    "Desktop Chromium com viewports simulados; sem teste em aparelho físico.",
+    "Google Fonts bloqueado na sessão de teste; tipografia validada com a fonte de reserva.",
+    "Rede lenta validada para exibição do poster e ações antes do vídeo; não é medição de reprodução em rede móvel real."
+  ]
+}

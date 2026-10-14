@@ -1,0 +1,24 @@
+---
+import { cabanasWhatsappUrl } from '../data/contact';
+---
+
+<header class="site-header" id="site-header">
+  <div class="site-header__inner">
+    <a class="site-header__brand" href="#inicio" aria-label="RP2 Engenharia — voltar ao início">
+      <img src="/images/branding/logo%20RP2.png" alt="RP2 Engenharia" width="80" height="80" />
+    </a>
+    <span class="site-header__section">Cabanas Modulares</span>
+    <a class="site-header__action" href={cabanasWhatsappUrl} target="_blank" rel="noopener noreferrer" aria-label="Falar sobre cabanas no WhatsApp (abre em nova aba)">
+      Falar com a RP2 <span aria-hidden="true">↗</span>
+    </a>
+  </div>
+</header>
+
+<script>
+  const header = document.querySelector<HTMLElement>('#site-header');
+  if (header) {
+    const updateHeader = () => header.classList.toggle('is-scrolled', window.scrollY > 24);
+    updateHeader();
+    window.addEventListener('scroll', updateHeader, { passive: true });
+  }
+</script>

@@ -1,0 +1,42 @@
+---
+import { cabanasWhatsappUrl } from '../data/contact';
+---
+
+<main>
+  <section class="hero" id="inicio" aria-labelledby="hero-title">
+    <video class="hero__video" id="hero-video" autoplay muted loop playsinline preload="none" poster="/images/hero/hero-poster.png" data-src="/videos/hero.mp4" aria-hidden="true" tabindex="-1"></video>
+    <div class="hero__shade" aria-hidden="true"></div>
+    <div class="hero__inner">
+      <div class="hero__content">
+        <p class="hero__eyebrow">RP2 Engenharia <span aria-hidden="true">·</span> Cabanas Modulares</p>
+        <h1 class="hero__title" id="hero-title"><span class="hero__title-line">Arquitetura para viver</span> <span class="hero__title-line">mais perto da <span class="hero__title-accent">natureza.</span></span></h1>
+        <p class="hero__description">Conheça a linha de cabanas modulares em Steel Frame da RP2 Engenharia.</p>
+        <div class="hero__action-entry">
+          <a class="hero__action" href={cabanasWhatsappUrl} target="_blank" rel="noopener noreferrer" aria-label="Conversar sobre cabanas no WhatsApp (abre em nova aba)">
+            Conversar sobre cabanas <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script>
+  const video = document.querySelector<HTMLVideoElement>('#hero-video');
+  if (video) {
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    const syncPlayback = () => {
+      if (reducedMotion.matches) {
+        video.pause();
+        video.classList.remove('is-playing');
+        return;
+      }
+      if (!video.src && video.dataset.src) video.src = video.dataset.src;
+      void video.play().catch(() => video.classList.remove('is-playing'));
+    };
+    video.addEventListener('playing', () => video.classList.add('is-playing'));
+    video.addEventListener('error', () => video.classList.remove('is-playing'));
+    reducedMotion.addEventListener('change', syncPlayback);
+    syncPlayback();
+  }
+</script>
