@@ -1,0 +1,29 @@
+# Referências externas usadas apenas durante o desenvolvimento
+/docs/referencias/
+
+# Dependências e saídas geradas
+**/node_modules/
+**/dist/
+**/.astro/
+**/.vercel/
+
+# Configuração local e segredos
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.sample
+
+# Logs e arquivos temporários
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+*.log
+*.tmp
+*.bak
+
+# Configurações locais de editores e sistema
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
